@@ -135,10 +135,3 @@ Author: A. F. Alnabih (Aya Nabih)
 Paper: https://doi.org/10.1007/s11042-024-18681-3  
 Hugging Face model: https://huggingface.co/AyaF/ASL-Vit
 
----
-
-If you want, I can:
-- Commit this README.md to the repository,
-- Inspect the repo and update the README with exact file paths and concrete training commands,
-- Or generate a short example notebook for inference and evaluation.
-```
